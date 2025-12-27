@@ -1,0 +1,14 @@
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\bin\Debug\net8.0\PillarsPOO.exe
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\bin\Debug\net8.0\PillarsPOO.deps.json
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\bin\Debug\net8.0\PillarsPOO.runtimeconfig.json
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\bin\Debug\net8.0\PillarsPOO.dll
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\bin\Debug\net8.0\PillarsPOO.pdb
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.AssemblyInfoInputs.cache
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.AssemblyInfo.cs
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.csproj.CoreCompileInputs.cache
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.dll
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\refint\PillarsPOO.dll
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.pdb
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\PillarsPOO.genruntimeconfig.cache
+C:\Users\IsmacarLabs\source\repos\PillarsPOO\PillarsPOO\obj\Debug\net8.0\ref\PillarsPOO.dll
