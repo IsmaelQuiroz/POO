@@ -1,10 +1,8 @@
 ﻿using PillarsPOO;
 
-
 PolimorfismoI();
 PolimorfismoH();
 //Encapsulamiento();
-
 
 void PolimorfismoI()
 {
