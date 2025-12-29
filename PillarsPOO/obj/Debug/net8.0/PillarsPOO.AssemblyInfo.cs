@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PillarsPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3203e265fb62b8a287b5ccb77f01d8471c7ebee")]
 [assembly: System.Reflection.AssemblyProductAttribute("PillarsPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PillarsPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PillarsPOO.csproj": {}
+    "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PillarsPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PillarsPOO.csproj": {
+    "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PillarsPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PillarsPOO.csproj",
+        "projectUniqueName": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PillarsPOO.csproj",
         "projectName": "PillarsPOO",
-        "projectPath": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PillarsPOO.csproj",
+        "projectPath": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PillarsPOO.csproj",
         "packagesPath": "C:\\Users\\IsmacarLabs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\obj\\",
+        "outputPath": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
