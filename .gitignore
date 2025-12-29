@@ -1,1 +1,16 @@
+# Artefactos de compilación
+bin/
+obj/
+
+# Archivos de Visual Studio
 .vs/
+*.user
+*.suo
+
+# Archivos temporales y de logs
+*.log
+*.tmp
+
+# Secretos (si aplica)
+# appsettings.Development.json
+# .env
