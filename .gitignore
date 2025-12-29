@@ -4,6 +4,7 @@ obj/
 
 # Archivos de Visual Studio
 .vs/
+.vs\
 *.user
 *.suo
 
