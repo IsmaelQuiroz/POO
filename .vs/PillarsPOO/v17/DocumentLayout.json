@@ -1,13 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\",
+  "WorkspaceRootPath": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|c:\\users\\ismacarlabs\\source\\repos\\pillarspoo\\pillarspoo\\polimorfismointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\inyecciondedependencias\\loggers\\loggerconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\inyecciondedependencias\\loggers\\loggerconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A9C879-5DD8-4739-8D0E-C986B089B51D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\pillarspoo\\polimorfismointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|solutionrelative:pillarspoo\\polimorfismointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|c:\\users\\ismacarlabs\\source\\repos\\pillarspoo\\pillarspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|c:\\users\\ismacarlabs\\documents\\github\\poo\\pillarspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B129455-788F-4FF1-A6F8-5BD8EF3C52C5}|PillarsPOO\\PillarsPOO.csproj|solutionrelative:pillarspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PolimorfismoInterface.cs",
-              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PolimorfismoInterface.cs",
-              "RelativeDocumentMoniker": "PillarsPOO\\PolimorfismoInterface.cs",
-              "ToolTip": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\PolimorfismoInterface.cs",
-              "RelativeToolTip": "PillarsPOO\\PolimorfismoInterface.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:42:06.553Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T03:34:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T03:29:57.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:11:28.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:27:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerConsola.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\InyeccionDeDependencias\\Loggers\\LoggerConsola.cs",
+              "RelativeDocumentMoniker": "WebApi\\InyeccionDeDependencias\\Loggers\\LoggerConsola.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\InyeccionDeDependencias\\Loggers\\LoggerConsola.cs",
+              "RelativeToolTip": "WebApi\\InyeccionDeDependencias\\Loggers\\LoggerConsola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:26:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:17:23.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:17:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolimorfismoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PolimorfismoInterface.cs",
+              "RelativeDocumentMoniker": "PillarsPOO\\PolimorfismoInterface.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\PolimorfismoInterface.cs",
+              "RelativeToolTip": "PillarsPOO\\PolimorfismoInterface.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:42:06.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\Program.cs",
               "RelativeDocumentMoniker": "PillarsPOO\\Program.cs",
-              "ToolTip": "C:\\Users\\IsmacarLabs\\source\\repos\\PillarsPOO\\PillarsPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\IsmacarLabs\\Documents\\GitHub\\POO\\PillarsPOO\\Program.cs",
               "RelativeToolTip": "PillarsPOO\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:30:29.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T19:30:29.262Z"
             }
           ]
         }
